@@ -1,0 +1,7 @@
+beautifulsoup4~=4.12.2
+langchain~=0.0.198
+openai~=0.27.7
+streamlit~=1.23.1
+qdrant-client~=1.2.0
+pypdf~=3.9.1
+tiktoken~=0.4.0
